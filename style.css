@@ -1,0 +1,29 @@
+body {
+    /* background-color: pink; */
+    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fmiraculousladybug.fandom.com%2Fpt-br%2Fwiki%2FPortadores_de_Miraculous&psig=AOvVaw1QaKxAugCA1cEdggO4bd1b&ust=1725130590067000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDX1bSynYgDFQAAAAAdAAAAABAE");
+    /* background-repeat: no-repeat; */
+    background-size: auto;
+}
+
+.menu{
+    background: white;
+}
+
+.menu ul {
+     display: flex;
+     flex-direction:colum;
+}
+
+.menu li {
+     list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color:darkmagenta;
+}
+
+a:hover {
+    text-decoration: underline;
+    color:midnightblue;
+}
