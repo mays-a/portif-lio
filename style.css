@@ -1,6 +1,6 @@
 body {
     /* background-color: pink; */
-    background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fmiraculousladybug.fandom.com%2Fpt-br%2Fwiki%2FPortadores_de_Miraculous&psig=AOvVaw1QaKxAugCA1cEdggO4bd1b&ust=1725130590067000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDX1bSynYgDFQAAAAAdAAAAABAE");
+    background-image: url("https://cdn.hero.page/wallpapers/7a5d731b-a7f7-4e4c-b359-07e0024614ca-street-art-styled-cityscape-wallpaper-1.png");
     /* background-repeat: no-repeat; */
     background-size: auto;
 }
@@ -11,7 +11,7 @@ body {
 
 .menu ul {
      display: flex;
-     flex-direction:colum;
+     flex-direction:row;
 }
 
 .menu li {
