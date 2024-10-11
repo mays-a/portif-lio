@@ -28,3 +28,38 @@ a:hover {
     text-decoration: underline;
     color:midnightblue;
 }
+
+
+body {
+    background-image: url("https://i.pinimg.com/550x/93/52/da/9352da5c2c1a8bc456c619c6a751155c.jpg");
+    background-size: auto;
+}
+
+a {
+    text-decoration: none;
+    color: hsl(278, 70%, 34%);
+}
+
+a:hover{
+    text-decoration: underline;
+    color:cadetblue;
+}
+
+.menu {
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    background-color: rgba(154, 113, 192, 0.8); 
+    padding: 5px; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+}
+
+.menu li {
+    margin: 0 15px; 
+    list-style: none; 
+
+}
+.menu a:hover {
+    text-decoration: underline;
+    color: rgb(69, 139, 160); 
+}
