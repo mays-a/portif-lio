@@ -1,12 +1,14 @@
 body {
     /* background-color: pink; */
+    background-image: url("https://i.pinimg.com/474x/01/d4/55/01d45539cd38d84e2628af2c91b0245f.jpg");
     background-image: url("https://images.app.goo.gl/V42X9LAicFauCT4s7");
-    /* background-repeat: no-repeat; */
+    background-repeat: no-repeat; 
     background-size: auto;
 }
 
 .menu{
-    background: white;
+    background: rgb(238, 174, 174);
+    opacity: 0.6;
 }
 
 .menu ul {
