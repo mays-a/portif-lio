@@ -1,39 +1,6 @@
 body {
-    /* background-color: pink; */
     background-image: url("https://i.pinimg.com/474x/01/d4/55/01d45539cd38d84e2628af2c91b0245f.jpg");
-    background-image: url("https://images.app.goo.gl/V42X9LAicFauCT4s7");
-    background-repeat: no-repeat; 
     background-size: cover;
-}
-
-.menu{
-    background: rgb(238, 174, 174);
-    opacity: 0.6;
-}
-
-.menu ul {
-     display: flex;
-     flex-direction:row;
-}
-
-.menu li {
-     list-style: none;
-}
-
-a{
-    text-decoration: none;
-    color:darkmagenta;
-}
-
-a:hover {
-    text-decoration: underline;
-    color:midnightblue;
-}
-
-
-body {
-    background-image: url("https://i.pinimg.com/550x/93/52/da/9352da5c2c1a8bc456c619c6a751155c.jpg");
-    background-size: auto;
 }
 
 a {
